@@ -1,0 +1,1 @@
+self.angle += self.actualSpeed/5
